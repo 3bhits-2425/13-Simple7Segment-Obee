@@ -17,3 +17,7 @@ private readonly int[][] digitMap = new int[][]
 ```
 
 
+
+
+https://github.com/user-attachments/assets/44d90f91-7f04-4ec2-a3e0-0302c9deaf68
+
